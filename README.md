@@ -1,2 +1,2 @@
 # Hello
-idea,resource,discuss,share
+We can share the idea and discuss with each other.
